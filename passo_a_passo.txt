@@ -1,0 +1,23 @@
+1 - Instalação do ambiente virtual :
+
+- pip install virtualenv
+
+2 - Instalação do ambiente virtual :
+
+- pip install streamlit
+
+3 -  Ativação do ambiente virtual:
+
+- python -m venv myfirstproject
+
+3 - Ativar o ambiente virtual:
+
+- myfirstproject\Scripts\activate
+
+4 - Comando para extrair as bibliotecas instaladas no ambiente virtual:
+
+- pip freeze > requirements.txt
+
+5 - Comando para instalar todas as biblioteccas:
+
+- pip install -r requirements.txt
